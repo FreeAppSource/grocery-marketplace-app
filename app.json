@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Grocery Marketplace App",
+    "slug": "grocery-marketplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#10B981"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "grocerymarketplace"
+  }
+}

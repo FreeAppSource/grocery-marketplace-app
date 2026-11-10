@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# original design source files (credited in README, not redistributed)
+design/
+
+# expo / build output
+.expo/
+dist/
+web-build/
+*.log
+
+# env & os
+.env*
+.DS_Store
